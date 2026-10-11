@@ -1,0 +1,17 @@
+101 Single 23.5 false false free
+102 Single 23.5 false false free
+103 Double 27.5 false false free
+104 Double 27.5 false false free
+105 Double 27.5 false false free
+201 Single 23.5 true false hamzanotmalik@gmail.com
+202 Single 23.5 true false fshv@gmail.com
+203 Double 27.5 true false free
+204 Double 27.5 true false free
+205 Double 27.5 true false free
+301 Single 33.5 true true hqmhqm@gmail.com
+302 Single 33.5 true true free
+303 Suite 60.0 true true free
+304 Suite 60.0 true true free
+305 Suite 60.0 true true free
+306 Double 37.5 true true free
+307 Double 37.5 true true free
